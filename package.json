@@ -1,0 +1,21 @@
+{
+  "name": "com.bwibow.playercontrollerall",
+  "version": "1.0.0",
+  "displayName": "PlayerController All",
+  "description": "Player Controller FPS , TFS , TOP DOWN , 2D",
+  "unity": "2022.1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "Thanawat",
+    "email": "64050108@kmitl.ac.th"
+  },
+  "samples":[
+    {
+        "displayName":"File sample",
+        "description":"File",
+        "path":"Samples~/Scenes"
+    }
+  ]
+}
